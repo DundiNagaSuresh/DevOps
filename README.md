@@ -1,2 +1,2 @@
 # Terraform
-My Journey towards DevOps
+My Journey towards Learning DevOps.
